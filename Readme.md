@@ -1,6 +1,6 @@
-### Simple Website for New balance Shoes
+# Simple Website for New balance Shoes
 
-## Objective:
+### Objective:
 
 1. Understand and making use of the Bootstrap css framework.
 2. Use of jQuery for rapid and faster javascript development.
